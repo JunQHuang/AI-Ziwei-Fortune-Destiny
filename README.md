@@ -1,6 +1,8 @@
 # ☯ 紫微斗数 · AI 算命
 
 基于紫微斗数传统命理学的 AI 智能解盘应用。输入生辰八字，自动排盘并由 AI 大模型进行专业命理解读，支持多轮追问交互。
+<img width="1296" height="1191" alt="6000ad00289e4a094a325f016a8c29db" src="https://github.com/user-attachments/assets/2b718229-cf84-44e2-8962-c158064ade7c" />
+<img width="1535" height="1363" alt="image" src="https://github.com/user-attachments/assets/25a97c1f-0d34-4291-adfc-60deba0c4322" />
 
 ## ✨ 功能特色
 
